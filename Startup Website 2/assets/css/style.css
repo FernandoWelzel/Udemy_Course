@@ -1,0 +1,10 @@
+.introduction {
+    display: flex;
+    align-content: center;
+}
+
+.mytext {
+    padding: 10px;
+    font-size: 30px;
+    align-self: center;
+}
